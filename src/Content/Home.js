@@ -2,7 +2,7 @@ import directordeskImage from "../images/directorsdesk.jpg";
 import tpoImage from "../images/tpoImage.webp";
 
 const AboutIIITR = `The Training and Placement cell of IIIT Raichur started functioning in April 2021.
-The Training and Placement cell is responsible for facilitating and monitoring the recruitment activities and contacting the companies for hiring the students. We act as the bridge between the students and companies interested in recruiting. We also conduct training sessions for developing soft skills, problem-solving skills, and coding quizzes to prepare the students for the interviews and coding exams.`;
+The cell is responsible for facilitating and monitoring the recruitment activities and contacting the companies for hiring the students. We act as the bridge between the students and companies interested in recruiting. We also conduct training sessions for developing soft skills, problem-solving skills, and coding quizzes to prepare the students for the interviews and coding exams.`;
 
 const Mission = `Budding under one of the most sought after institutes in the country, IIITR has had the philosophy of bringing positive changes in the lives of its students, and thereby, the society at large, from its very inception. The mission has always been to cultivate ingenuity, originality and innovation in the students, who are the future of this country.`;
 
